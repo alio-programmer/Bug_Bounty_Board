@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "bug-board": {
+      "type": "local",
+      "command": [
+        "D:/OpenCode Projects/Bug Board/node_modules/.bin/tsx.cmd",
+        "D:/OpenCode Projects/Bug Board/mcp/server.ts"
+      ],
+      "enabled": true
+    }
+  }
+}
